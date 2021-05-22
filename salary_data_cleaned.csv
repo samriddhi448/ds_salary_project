@@ -1,0 +1,291 @@
+Job Title,Salary Estimate,Job Function,Job Description,Company Name,Rating,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue,hourly,employer provided,min_salary,max_salary,avg_salary,company_txt,job_state,age,python_in,studio_in,spark_in,aws_in,excel_in
+Staff Data Scientist,$111K - $194K (Glassdoor est.),Data Scientist,"WHO WE ARE:
+Voted one of the Top 100 Fastest Growing Companies in the Bay Area for 2020, Freedom Financial Network is a family of companies that takes a people-first approach to financial services, using technology to empower consumers to overcome debt and create a brighter financial future. The company was founded in 2002 by Brad Stroh and Andrew Housser on the belief that by staying committed to helping people, you can ensure better financial outcomes for both the customer and the business. This Heart/$ philosophy still guides the vision of our growing company, which has helped millions of people find solutions for their financial needs.
+What began with 2 people in a spare bedroom has now rapidly expanded to a vibrant business that employs over 2000 employees (known internally as The Freedom Family) in two locations: San Mateo, CA and Tempe, AZ. When you visit either of our offices, you’ll understand why our employees have voted us the Best Place to Work for the last several years. It’s a place where the Heart/$ philosophy continues to thrive, where we believe that success is only achieved by doing what’s right for our customers, our employees, and our communities.
+Some of the key responsibilities for the Analytic Scientist will include:",Freedom Financial Network,3.5,"San Mateo, CA",1001 to 5000 Employees,2002,Company - Private,Lending,Finance,$500 million to $1 billion (USD),0,0,111,194,152.5,Freedom Financial Netw, CA,19,0,0,0,0,0
+Staff Data Scientist,$118K - $193K (Glassdoor est.),Data Scientist,"About Us
+
+On the off chance you've thought about insurance, it's likely because you've insured something you love, not because you loved your insurance company. Metromile is out to change that. As an insurtech company powered by data science and customer-centric design, we're building a community of drivers who come for the savings and stay for the experience.
+
+With technology at its core, Metromile is reimagining insurance to make it fairer and actually delightful. We're obsessed with savings, service, and features -- street sweeping alerts, monthly mileage summaries, fuel trackers and more -- that engage a customer all along their journey. We're on the forefront of disrupting a $250 billion auto insurance category that has gone unchanged for over 80 years.
+
+Metromile's diverse team combines the best of Silicon Valley technologists with veterans from Fortune 500 insurers and financial services giants. This management structure ensures that the business is focused on growth, customer experience and technology innovation while also balancing unit economics and profitability. The team is growing quickly across its San Francisco, Tempe, and Boston offices, as well as remotely. Our customer service, claims, and sales teams are all based in-house in the US.
+
+Thanks to what makes us different -- our people and our technology -- we've been honored with a slew of awards. A few recent ones include: named a Benzinga ""Best Insurtech"" finalist, a Top Company to Work For , one of the Healthiest Employers in Phoenix , and a Best Place to Work . And, our CEO was recognized as a 2020 40 under 40 .
+
+About The Role
+
+At a pivotal inflection point of growth, Metromile is seeking a Staff Data Scientist to work with partners from across our company (actuarial, claims, marketing, telematics, and underwriting) to scale an effective business. This role will provide technical leadership in data practices, modeling infrastructure/architecture, and algorithmic design as a core member of a growing team. Your models will have an outsized impact in optimizing the balance between profitability, risk, and growth; enabling dynamic customer experiences; and powering our pricing strategies.
+
+Data is our product; understanding how driver behavior relates to risk is at the core of our insurance business and will disrupt the way the industry currently operates. For one project, you might draw on data from in-car sensors, mobile devices, and connected vehicles to improve how quickly we are able to assess driving risk. For another, you might use the data we collect during the quote-and-enroll sign-up process to streamline the customer experience.
+
+If you are excited by the opportunity to explore diverse data sources and work on impactful projects central to our company's mission, we'd love to hear from you.
+
+You will
+
+Own end-to-end data science projects from the exploration phase to implementation in production to post-production monitoring.
+Lead innovation on our infrastructure for managing features for, training, and deploying machine learning models (both batch and real-time) based on your expertise
+Communicate data science models to a range of stakeholders, incorporating their feedback to ensure our models have the best impacts on the business
+Use your models to influence decisions across the business and gain support from executive leadership
+Work with a diverse team of collaborative data professionals who enjoy technical discussions, learning new methodologies, and helping each other improve through feedback and shared research/tools
+
+You will
+
+Own end-to-end data science projects from the exploration phase to implementation in production to post-production monitoring.
+Improve our infrastructure for training and deploying machine learning models, both batch and real-time
+Communicate data science models to a range of stakeholders, incorporating their feedback to ensure our models have the best impacts on the business
+Use your models to influence decisions across the business and gain support from executive leadership
+Work with a diverse team of collaborative data professionals who enjoy technical discussions and learning new methodologies.
+
+About You
+
+No degree required. While we appreciate experience in a quantitative field like statistics, economics, applied math, operations research, physics or engineering, we recognize there are many paths to gain that experience and would love to hear about yours
+4+ years experience building and deploying machine learning models in production
+Proficiency with SQL for writing efficient queries on large datasets
+Proficiency with Python for statistical and numerical modeling
+Experience with Python and/or Scala APIs of Apache Spark, or other tools to work efficiently with data at scale (e.g., billions of rows from sensors)
+Experience with AWS and/or GCP cloud platforms
+Ability to collaborate and communicate with cross-functional partners to build the business
+
+Bonus Points
+
+Experience within the fintech, insurtech, or autonomous vehicle space
+Prior work in developing machine learning infrastructure
+
+What's In It For You
+
+Competitive salary and stock options
+Excellent benefits package (health, dental, vision, 401K- with employer match)
+Well-being reimbursement, includes home office equipment
+Flexible paid vacation program and a culture that encourages using it (e.g., designated no-meeting days so teams can take flex holidays)
+Flexible hours
+Remote work options
+12 paid weeks of leave for child birth/adoption
+Annual anniversary gifts (6 week paid sabbatical at 5 years)
+
+If you got to this point, we hope you're feeling excited about the role. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We're eager to meet people that believe in Metromile's mission and can contribute to our team in a variety of ways – not just candidates who check all the boxes.
+
+Metromile is committed to building a diverse, inclusive and equitable culture at all levels. We nurture a sense of community by investing in one another's unique backgrounds and experiences to drive business success and positively influence our services and products.
+
+Metromile is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, ethnicity, national origin, citizenship, religion, creed, sex, sexual orientation, gender, gender identity, or expression (including against any individual that is transitioning, has transitioned, or is perceived to be transitioning), marital status or civil partnership/union status, physical or mental disability, medical condition, pregnancy, childbirth, genetic information, military, and veteran status, or any other basis prohibited by applicable federal, state or local law.",Metromile,4.1,"San Francisco, CA",201 to 500 Employees,2011,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,0,0,118,193,155.5,Metrom, CA,10,1,0,1,1,1
+Staff Scientist Virtual Hiring Event,$80K - $232K (Glassdoor est.),Non Title,"Bio-Rad Virtual Interviews
+
+Event Details
+Date: Tuesday, May 25, 2021
+
+What We're Hiring For
+
+Production Manager
+
+Scientist (Analytical Biochemistry)
+
+Production Planning Manager
+
+Staff Scientist
+
+
+Technical requirements
+
+After signing up, you will be sent an email with instructions on how to connect.
+Please be prepared to join the virtual interview from a quiet place using a desktop or mobile device with a working speaker, microphone, and camera. Check to see if your network connection can support an online session. A plugged in ethernet cable or a strong WiFi network signal will help avoid time delays during your conversation.
+
+What to prepare for the interview
+
+Resume
+
+Interview dress code
+
+Casual (come as you are, but please be presentable)
+
+About Bio-Rad
+
+Bio-Rad is a global leader in developing, manufacturing, and marketing a broad range of innovative products for the life science research and clinical diagnostic markets. With a focus on quality and customer service for over 65 years, our products advance the discovery process and improve healthcare. Our customers include university and research institutions, hospitals, public health and commercial laboratories, biotechnology, pharmaceutical, as well as applied laboratories that include food safety and environmental quality.
+
+What is a virtual interview?
+Virtual interviews help employers connect with job seekers when they are not in the same physical location. Since hiring is a human process, employers would like to talk with you online (chat, video or phone) to see if you meet the requirements for the job.
+
+
+
+Do you have any manufacturing experience?
+
+
+Do you have a Bachelor's Degree in a Scientific and/or Business field?
+
+
+Have you worked in a regulated environment before?
+
+
+Represents manufacturing in key quality management roles such as the Design Review Board, Change Control Board, Validation Review Board, etc. Assumes an advisory role, reviewing experimental design, and protocols Leads efforts to drive operational excellence, leveraging data to identify improvement opportunities and ensuring implementation of well-engineered solutions. Drives the development and execution of complex experiments and tests (including writing and executing protocols) to qualify and validate manufacturing processes; analyze results, make recommendations, and develop reports. Lead team to resolve complex CAPA, analyze and resolve complex Manufacturing and compliance issues (e.g., non-conformances and audit observations). Mentors technical personnel in process capability, developing training and technical documentation for production to enable the seamless project and process knowledge transfer Leads and establish complex project plans to ensure deliverables are completed to customer’s expectations, using project management tools (e.g., Project Action Plan, Risk Analysis, etc.) Provide instruction to engineers/ technicians on conducting tests; train engineers/production team and provide feedback. As needed coordinates engineer/ production team assignments/work.
+
+
+Bachelor's Degree in Scientific field, in biologic and/or chemistry disciplines. Master's Degree and/or Doctorate Degree in scientific field highly desirable
+Minimum of 10+ years’ industry experience is required in related industry
+Ability to translate and articulate technical information to all organization levels
+Extensive knowledge of scientific principles, statistical techniques, theories",Bio-Rad,3.4,"San Ramon, CA",5001 to 10000 Employees,1952,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,80,232,156.0,Bio-, CA,69,0,0,0,0,1
+Scientist,$70K - $155K (Glassdoor est.),Research Scientist,"Scientist – Cell Biology
+Job Title: Scientist
+Job Description: ALSTEM, INC is a growing research biotechnology company located in Richmond, CA. ALSTEM is a nimble provider of tools specializing in virus packaging, genome editing, cell engineering and stem cells for life science research.
+ALSTEM is looking for a highly organized and energetic Scientist with a Ph.D degree to join its scientific team. The candidate will lead the expansion of our existing contract service capabilities and the development of new products in areas such as iPSC reprogramming and differentiation, genome editing, stable cell line generation and more. This is a hands-on lab-based role at the forefront of iPS cells, gene delivery, and genome editing.
+Education Requirements: PhD degree in cell biology biology, biochemistry, or related field.",ALSTEM,-1.0,"San Pablo, CA",-1,-1,-1,-1,-1,-1,0,0,70,155,112.5,ALSTEM, CA,-1,0,0,0,0,0
+"Scientist I, Protein Engineering",$99K - $217K (Glassdoor est.),Research Scientist,"Who we are
+
+23andMe, the leading consumer genetics and research company, has accumulated a wealth of genotypic and phenotypic information from participants committed to improving human health through advances in genomics. Our Therapeutics team in South San Francisco leverages this data to discover and develop new treatments that can offer significant benefits for patients with serious, unmet medical needs.
+
+This dedicated research and drug development group identifies novel targets using 23andMe's genetic database and performs preclinical research to advance programs towards clinical development. We currently have programs across several therapeutic areas, including but not limited to oncology, respiratory, and cardiovascular diseases. More information about our Therapeutics team is available at https://therapeutics.23andme.com/ .
+
+We are seeking an exceptional, highly-motivated Scientist to contribute to a collaborative, cross-functional team focused on the biological characterization of drug targets and the preclinical development of drug compounds. In this role, you will have experience applying molecular and cell biology approaches to elucidate target function and drug mechanism of action.
+
+What you'll do
+
+Manage the production of mammalian proteins and antibodies to support therapeutic development programs, from construct generation through purification, biophysical and analytical characterization
+
+Interface and collaborate closely with other therapeutic teams including analytics, antibody engineering, and assay
+
+Work closely with project leads to manage and prioritize protein reagent requirements for multiple projects
+
+Utilize mammalian (HEK293 & CHO), insect, and bacterial (E.coli) transient expression systems for protein production
+
+Perform protein purification using a broad variety of chromatographic methods utilizing FPLC/AKTA systems
+
+Produce, engineer, label and/or optimize protein reagents for use in biochemical and functional screening assays
+
+Manage CRO workflows and progress on protein expression/purification related projects
+
+Generate, analyze, document and communicate complex data
+
+What you'll bring
+
+Master's or PhD in Molecular Biology, Biochemistry, or related field
+
+Considerable industry experience in Biotech/Pharma OR in academic research laboratories as a Postdoctoral fellow
+
+Excellent record of productivity and success in the optimization of all aspects of the production of mammalian proteins
+
+Advanced working knowledge of protein expression and purification techniques, protein structure and stability
+
+Proactive and highly self-motivated with strong analytical and troubleshooting skills
+
+Excellent interpersonal communication and organization skills with the ability to work independently and in a fast-paced team environment
+
+Pluses
+
+Prior work experience in an antibody-development setting
+
+Experience with protein analytical characterization such as SEC, RP-HPLC
+
+Prior experience in protein production support for a structural biology group
+
+Prior experience in in vitro and binding assay development
+
+Job title will be commensurate with experience and academic credentials
+
+About Us
+
+23andMe, Inc. is the leading consumer genetics and research company. Founded in 2006, the mission of the company is to help people access, understand, and benefit from the human genome. The company was named by Glassdoor as one of the Best Places to Work in 2019, MIT Technology Review to its ""50 Smartest Companies, 2017"" list, and named one of Fast Company's ""25 Brands That Matter Now, 2017"". 23andMe has millions of customers worldwide, with more than 80 percent of customers consented to participate in research. More information is available at www.23andMe.com .
+
+At 23andMe, we value a diverse, inclusive workforce and we provide equal employment opportunity for all applicants and employees. All qualified applicants for employment will be considered without regard to an individual's race, color, sex, gender identity, gender expression, religion, age, national origin or ancestry, citizenship, physical or mental disability, medical condition, family care status, marital status, domestic partner status, sexual orientation, genetic information, military or veteran status, or any other basis protected by federal, state or local laws. If you are unable to submit your application because of incompatible assistive technology or a disability, please contact us at accomodations-ext@23andme.com . 23andMe will reasonably accommodate qualified individuals with disabilities to the extent required by applicable law.
+
+23andMe does not accept agency resumes and we are not responsible for any fees related to unsolicited resumes. Thank you.",23andMe,4.2,"South San Francisco, CA",501 to 1000 Employees,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,99,217,158.0,23an, CA,15,0,0,0,1,1
+"Scientist, Immuno-Oncology",$69K - $214K (Glassdoor est.),Medical Scientist,"About TrueBinding, Inc.:
+TrueBinding Inc., is a biotech startup developing first-in-class immunotherapy antibody drugs to
+treat cancer, metabolic and neurodegenerative diseases, based on our proprietary TrueBinding platform.
+Job Summary
+We are seeking a highly motivated and innovative scientist with expertise in oncology or cancer immunology, to join our drug target validation group to support oncology projects. The successful candidate will have a broad and good understanding of tumor biology and have drug target validation experience. He/ She is expected to have strong organizational and planning skills and be able to work in a fast-paced, cross-functional and highly collaborative team environment.",TrueBinding,-1.0,"Foster City, CA",-1,-1,-1,-1,-1,-1,0,0,69,214,141.5,TrueBinding, CA,-1,0,0,0,0,0
+"Scientist I / Scientist II, Computational Biology",$86K - $226K (Glassdoor est.),Computational Biologist,"Who we are
+
+23andMe, the leading consumer genetics company, has accumulated a wealth of genetic and phenotypic information from research participants committed to improving human health through advances in genomics. Our Therapeutics team based in South San Francisco uses this unparalleled dataset to discover and develop novel treatments for patients with serious unmet needs.
+
+Biological interpretation of genetic signals available to 23andMe requires computational methods to analyze high-throughput functional data, development of tools that integrate genetics and functional genomics to drive target discovery, and summarizing the results in ways that enable efficient decision making.
+
+More information about our Therapeutics team is available at https://therapeutics.23andme.com/ .
+
+Who you are
+
+We are looking for a quantitative scientist with extensive experience in computational biology and bioinformatics. Ideal candidates will have significant experience in working with large genomic datasets and developing robust software tools that drive discovery and interpretation. Our team is very collaborative, and the ability to communicate ideas and results to other scientists is key.
+
+What you'll bring
+
+Ph.D. -- or M.S. with at least 5 years of working experience in a research setting -- in Computational Biology, Computer Science, Bioinformatics, Statistics or a related field
+
+Hands-on experience working with very large genomic datasets
+
+Strong programming skills in (preferably) R or python, and demonstrated ability to write R packages / python libraries for broad use
+
+Experience working with SQL and relational databases
+
+Extensive experience in writing robust code in a shared development environment
+
+Experience in deploying internally developed tools in a production environment
+
+Ability to work in a dynamic team oriented environment
+
+Good communication skills and experience communicating software or database design to colleagues
+
+Pluses
+
+Contribution to an open source project, especially in R
+Familiarity with tools for processing WGS, RNA-seq, ATAC-seq, ChIP-seq or similar
+Experience in summarizing data to help drive interpretation and decision making
+
+Job title will be commensurate with experience and academic credentials
+
+About Us
+
+23andMe, Inc. is the leading consumer genetics and research company. Our mission is to help people access, understand and benefit from the human genome. The company was named by MIT Technology Review to its ""50 Smartest Companies, 2017"" list, and named one of Fast Company's ""25 Brands That Matter Now, 2017"". 23andMe has over 10 million customers worldwide, with ~80 percent of customers consented to participate in research. More information is available at www.23andMe.com .
+
+At 23andMe, we value a diverse, inclusive workforce and we provide equal employment opportunity for all applicants and employees. All qualified applicants for employment will be considered without regard to an individual's race, color, sex, gender identity, gender expression, religion, age, national origin or ancestry, citizenship, physical or mental disability, medical condition, family care status, marital status, domestic partner status, sexual orientation, genetic information, military or veteran status, or any other basis protected by federal, state or local laws. If you are unable to submit your application because of incompatible assistive technology or a disability, please contact us at accommodations-ext@23andme.com . 23andMe will reasonably accommodate qualified individuals with disabilities to the extent required by applicable law.
+
+23andMe does not accept agency resumes and we are not responsible for any fees related to unsolicited resumes. Thank you.",23andMe,4.2,"South San Francisco, CA",501 to 1000 Employees,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,86,226,156.0,23an, CA,15,1,0,0,1,0
+Staff Data Scientist,$110K - $198K (Glassdoor est.),Data Scientist,"Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue exceeding $25 billion. Our Mission is to enable our customers to make the world healthier, cleaner and safer. Whether our customers are accelerating life sciences research, solving complex analytical challenges, improving patient diagnostics and therapies or increasing productivity in their laboratories, we are here to support them.
+
+How will you make an impact?
+You will be a part of the fast-growing field of Clinical Diagnostics developing algorithms for molecular diagnostics based on real-time PCR technologies. Your interaction and collaboration with a talented team of assay, reagents, software, hardware designers and manufacturing will revolutionize healthcare through high throughput diagnostic systems. Thermo Fisher Scientific Inc. has played a pivotal role in the COVID-19 pandemic with the TaqPath COVID-19 Combo Kit for testing SARS-CoV-2. We continue to innovate and provide new solutions for the pandemic and we need your talent to help save lives.",Thermo Fisher - America,3.8,"San Francisco, CA",10000+ Employees,1902,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,110,198,154.0,Thermo Fisher - Amer, CA,119,0,0,0,0,0
+Data Scientist III,$99K - $170K (Glassdoor est.),Data Scientist,"Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue exceeding $25 billion. Our Mission is to enable our customers to make the world healthier, cleaner and safer. Whether our customers are accelerating life sciences research, solving complex analytical challenges, improving patient diagnostics and therapies or increasing productivity in their laboratories, we are here to support them.
+
+How will you make an impact?
+You will be a part of the fast-growing field of Clinical Diagnostics developing algorithms for molecular diagnostics based on real-time PCR technologies. Your interaction and collaboration with a talented team of assay, reagents, software, hardware designers and manufacturing will revolutionize healthcare through high throughput diagnostic systems. Thermo Fisher Scientific Inc. has played a pivotal role in the COVID-19 pandemic with the TaqPath COVID-19 Combo Kit for testing SARS-CoV-2. We continue to innovate and provide new solutions for the pandemic and we need your talent to help save lives.",Thermo Fisher - America,3.8,"San Francisco, CA",10000+ Employees,1902,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,99,170,134.5,Thermo Fisher - Amer, CA,119,0,0,0,0,0
+Downstream Scientist,$59K - $114K (Glassdoor est.),Research Scientist,"Consider joining Lancaster Laboratories where people are the most important element in our chemistry. Celebrating 50 years of service, Lancaster Laboratories is a leading contract lab providing testing and research services in the environmental, pharmaceutical, and biopharmaceutical sciences to clients worldwide.
+
+Eurofins Lancaster Laboratories, a nationally recognized laboratory, is searching for an experienced Scientist to work in our Professional Scientific Services group in Emeryville, California. The primary purpose of this position is to work with Senior level associates to develop robust Downstream processes in support of developing and optimizing production processes including process parameter optimization, process characterization, scale-up/tech transfer for large scale product production and support successful implementation of production processes at commercial scale.",Eurofins,3.3,"Emeryville, CA",10000+ Employees,1987,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,59,114,86.5,Eurof, CA,34,0,0,0,0,0
+Senior Data Engineer,$88K - $182K (Glassdoor est.),Data Engineer,"GO1 is on a mission to unlock positive potential through a love of learning. The GO1 platform makes learning easy with thousands of courses in one simple solution. Since our founding in 2015, we have grown to an organization of 200+ in 9 global offices. At GO1, we go to infinity and beyond through excellent work, prioritising actions over words and encouraging creativity and candour. It is with this spirit that we are driving hypergrowth and international expansion.
+We are currently looking for an experienced Senior Data Engineer who will be be responsible for technical delivery within the Go1 data platform technical domain. Working closely with business & product teams and our technical architects, you will be setting data platform development best practice aligned to the architecture design. You will be instrumental in delivering our data driven organisation future.
+You will be a champion for good development practice and will demonstrate this through practical work, constructive feedback and close collaboration. You will be a critical thinker who is able to rapidly problem solve. You bring you practical experience to this domain, land running from day one. You have a talent for getting the balance and fidelity of documentation and practical knowledge transfer, just right.
+Your main responsibilities
+Build Data pipelines to Acquire, Store, Transform & Surface enterprise data.
+Develop Batch process framework and deliver use case pipelines.
+Deploy change data capture for MySQL, landing data to Azure Data Lake 2.
+Develop transformation pipelines suppling analytics data to Azure Analysis Services.
+Develop PowerBI Apps/Dashboards/Reports.
+This is a permanent full time position ideally based out of Salt Lake City, Utah but will also consider Settle and San Francisco Bay locations. Salary is c$115k to $140k base plus benefits, depending on skills, experience and location.
+Requirements
+Azure Datalake 2.
+Parquet, Avro, Delta file formats.
+Acquiring data from Kafka/Rest API/Database's.
+Azure Data Factory / Synapse Orchestrate (Dataflows).
+Databricks/Synapse Notebooks.
+PowerBI, DAX, setting up shared data sets & dataflows.
+Exceptional SQL, PySpark (Python), .net Development (Azure Functions)
+Benefits
+We love what we do, and we work hard but we’re also flexible and have fun in the process
+We work as a team – we are open to new ideas, resolve issues together and continue to learn from each other
+Enjoy unlimited access to the Go1 Content Hub - thousands of training courses are waiting for you!
+Go1 is on a stable and rapid-growth curve and you will have the opportunity to grow with us",Go1,3.5,"San Francisco, CA",201 to 500 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,88,182,135.0,, CA,6,1,0,1,0,1
+Applied Mathematics and Computational Research Scientist,$76K - $145K (Glassdoor est.),Research Scientist,"The Computational Research Division at Lawrence Berkeley National Laboratory has an opening for an Applied Mathematics and Computational Research Scientist. This position will be responsible for playing an active role in developing new numerical algorithms and computational modeling capabilities for electromagnetics and plasmas with application to accelerator design, astrophysical plasmas, and micro-electronics.
+
+What You Will Do:
+Develop, implement and test numerical algorithms for electromagnetics and plasmas.
+Develop numerical algorithms for coupling particle and continuum representations of relativistic plasma physics.",Lawrence Berkeley National Laboratory,4.3,"San Francisco, CA",1001 to 5000 Employees,1931,Government,State & Regional Agencies,Government,$500 million to $1 billion (USD),0,0,76,145,110.5,Lawrence Berkeley National Laborat, CA,90,0,0,0,0,0
+Research Scientist,$82K - $173K (Glassdoor est.),Research Scientist,"Circularis Biotechnologies is a small start-up company specializing in DNA promoter discovery and engineering, to serve gene therapy and bio-manufacturing companies around the world. We have an immediate opening for a research scientist (full-time) to be part of our growing team located in Oakland, California. This position offers the opportunity to participate in projects using a wide variety of techniques in the fields of molecular biology, biochemistry, and bioinformatics. We also offer generous stock options to candidates ready to commit to a long term position. The following skills are required:
+Ph.D. in an area focused on molecular biology.
+Extensive experience in the design and cloning of gene expression plasmids using advanced molecular biology skills (library construction, etc.).
+Experience in nucleic acid analysis (DNA, RNA), and next-generation sequencing methods.",Circularis Biotechnologies,-1.0,"Oakland, CA",-1,-1,-1,-1,-1,-1,0,0,82,173,127.5,Circularis Biotechnologies, CA,-1,0,0,0,0,0
+Sr. Scientist / Manager - Rapid Lateral Flow Diagnostics,$98K - $198K (Glassdoor est.),Research Scientist,"Affimedix, a fast growing Medical Device company in San Francisco bay of California, focuses on R & D, product design, development, manufacturing and marketing of its “Proprietary” Point-Of-Care Health Diagnostics globally.
+Responsibilities:
+Conduct state-of-the-art Rapid Lateral Flow immunoassays development, including reagent screening, proof-of-concept, feasibility study, optimization, validation and final product development.
+Prepare technical SOPs as required for review and approval.
+Compile and analyze data; prepare reports and documentations.
+Prepare assay validation reports and other assay-related documentation as required by FDA and ISO regulations.",Affimedix Inc,-1.0,"Hayward, CA",-1,-1,-1,-1,-1,-1,0,0,98,198,148.0,Affimedix Inc, CA,-1,0,0,0,0,0
+Data Engineer,$78K - $138K (Glassdoor est.),Data Engineer,"Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue exceeding $25 billion. Our Mission is to enable our customers to make the world healthier, cleaner and safer. Whether our customers are accelerating life sciences research, solving complex analytical challenges, improving patient diagnostics and therapies or increasing productivity in their laboratories, we are here to support them.
+
+How will you make an impact?
+You will be a part of the fast-growing field of Clinical Diagnostics developing algorithms for molecular diagnostics based on real-time PCR technologies. Your interaction and collaboration with a talented team of assay, reagents, software, hardware designers and manufacturing will revolutionize healthcare through high throughput diagnostic systems. Thermo Fisher Scientific Inc. has played a pivotal role in the COVID-19 pandemic with the TaqPath COVID-19 Combo Kit for testing SARS-CoV-2. We continue to innovate and provide new solutions for the pandemic and we need your talent to help save lives.",Thermo Fisher - America,3.8,"San Francisco, CA",10000+ Employees,1902,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,78,138,108.0,Thermo Fisher - Amer, CA,119,0,0,0,0,0
